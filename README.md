@@ -1,5 +1,5 @@
 # Slithering Serpent: Classic Snake Game
- The Game is pure made using HTML, CSS and JS only.
+ The Game is purely made using HTML, CSS and JS only.
  
 # Screenshots
 
