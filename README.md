@@ -1,6 +1,8 @@
 # Slithering Serpent: Classic Snake Game
  The Game is purely made using HTML, CSS and JS only.
- 
+
+Try it Yourself - https://github.com/Krytax-24/Slithering-Serpent-Classic-Snake-Game
+
 # Screenshots
 
   -- Start Screen --
